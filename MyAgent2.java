@@ -1,5 +1,5 @@
 /**
- * Connect 4 agent by Benjamin Larkin
+ * Connect 4 agent by B L
  * September 21, 2015
  * v4 September 30, 2015
  * Final project for Udacity Intro to Java Course.
